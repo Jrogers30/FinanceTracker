@@ -1,7 +1,7 @@
 # FinanceTracker (Console + SQLite)
 
 ## Description
-A console-based personal finance tracker that lets users add, remove, view, and categorize income and expenses. All data is stored in a local SQLite database, with features for filtering, sorting, monthly summaries, and CSV import/export. Designed to help users track their finances and practice Java programming with database integration.
+A console-based personal finance tracker that lets users add, remove, view, and categorize income and expenses. All data is stored in a local SQLite database, with features for filtering, sorting, monthly summaries, and CSV import/export. Designed to help users track their finances.
 
 ## Features
 - Add, remove, and view transactions
